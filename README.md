@@ -1,5 +1,5 @@
 # 🎵 Speed-Sensitive Volume Plugin for Assetto Corsa
-
+# ⚠️ WE HIGHLY RECOMMAND USING [THIS EXTERNAL VERSION](https://github.com/1Developpeur/speed-sensitive-volume-external)
 **Automatically adjust music volume based on your car's speed**  
 *A modern solution for immersive racing experiences*
 
